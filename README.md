@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @qqqqffff
-- 👀 I’m interested in tensor flow
-- 🌱 I’m currently learning flask
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me discord @p4blo#3002
+- 👋 Hi, I’m Apollinaris Rowe
+- 👀 I’m interested in greedy algorithm optimization
+- 🌱 I’m currently learning tensor flow
+- 📫 How to reach me discord @p4blo#3002 or by email at 1apollo.rowe@gmail.com
 
 <!---
 qqqqffff/qqqqffff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
