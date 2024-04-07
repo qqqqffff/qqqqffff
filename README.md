@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Apollinaris Rowe
-- 👀 I’m interested in greedy algorithm optimization
-- 🌱 I’m currently learning tensor flow
-- 📫 How to reach me discord @p4blo#3002 or by email at 1apollo.rowe@gmail.com
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning Objective C
+- 📫 How to reach me on discord @p4blo. or by email at 1apollo.rowe@gmail.com (serious inquiries only)
 
 <!---
 qqqqffff/qqqqffff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
