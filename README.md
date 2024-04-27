@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Apollinaris Rowe
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Objective C
+- 🌱 I’m currently learning Objective C, Golang
 - 📫 How to reach me on discord @p4blo. or by email at 1apollo.rowe@gmail.com (serious inquiries only)
 
 <!---
